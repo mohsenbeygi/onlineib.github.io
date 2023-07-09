@@ -74,7 +74,3 @@ li:hover::after {
 #hidden {
   display: none;
 }
-
-#youtube_video_iframe{
-  width: 100%;
-}
